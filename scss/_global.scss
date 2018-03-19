@@ -44,12 +44,20 @@ h6 {
   background-color: $gray-900 !important;
 }
 
+.bg-light {
+  background-color: white !important;
+}
+
 .text-faded {
   color: fade-out($white, .3);
 }
 
 section {
   padding: 8rem 0;
+}
+
+.section-video {
+  padding: 0 0;
 }
 
 .section-heading {
