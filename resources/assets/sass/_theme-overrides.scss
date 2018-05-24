@@ -1,0 +1,100 @@
+body{
+    background-color: $gray-700;
+}
+
+#logo, h1, .headline{
+    color: $theme-color !important;
+    text-transform: uppercase !important;
+    font-family: $primary-font !important;
+    text-shadow: -2px 2px $lighter !important;
+    font-size: 17px;
+}
+
+.headline{
+    font-size: 22px;
+}
+
+h1{
+    text-shadow: -7px 5px $lighter !important;
+    font-size: 70px !important;
+}
+
+#mainNav.navbar-shrink{
+    background-color: $gray-900 !important;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link ,#mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus{
+    color: $theme-color2;
+}
+
+#mainNav .navbar-nav > li.nav-item > a.nav-link:hover{
+    color: $theme-color;
+}
+
+#mainNav{
+    color: $theme-color;
+    text-transform: uppercase;
+    font-family: $primary-font;
+    text-shadow: -2px 2px $lighter;
+    font-size: 17px;
+}
+
+// button
+.stim-button{
+    color: $darkest;
+    background-color: $theme-color;
+    border-radius: 0px;
+    margin-right: 10px;
+    box-shadow: -2px 2px $shadow !important;
+    -webkit-transition: color 0.5s; /* Safari */
+    transition: color 0.5s;
+    -webkit-transition: box-shadow 0.5s; /* Safari */
+    transition: box-shadow 0.5s;
+    font-weight: 600;
+    outline: none;
+}
+
+.stim-button:hover{
+    color: $darkest;
+    background-color: darken($theme-color, 12%);
+    box-shadow: 0px 0px $shadow;
+    outline: none;
+}
+
+.bg-800{
+    background-color: $gray-800;
+}
+
+.bg-700{
+    background-color: $gray-700;
+}
+
+.color1{
+    color: $theme-color;
+}
+
+.color2{
+    color: $theme-color2 !important;
+}
+
+.color2-hover-color1{
+    color: $theme-color2 !important;
+}
+
+.color2-hover-color1:hover{
+    color: $theme-color !important;
+}
+
+.secondary-font{
+    font-family: $secondary-font;
+    font-weight: 400 !important;
+}
+
+.font-600{
+    font-weight: 600 !important;
+}
+
+.padding-contacts{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}

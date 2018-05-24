@@ -1,6 +1,5 @@
-
 // Fonts
-@import url("https://fonts.googleapis.com/css?family=Raleway:300,400,600");
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:600,400|Press+Start+2P');
 
 // Variables
 @import "variables";
@@ -16,6 +15,7 @@
 @import "services.scss";
 @import "portfolio.scss";
 @import "bootstrap-overrides.scss";
+@import "theme-overrides.scss";
 
 
 .navbar-laravel {

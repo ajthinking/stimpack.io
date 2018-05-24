@@ -1,11 +1,27 @@
-
-// Body
-$body-bg: #f5f8fa;
-
 // Typography
-$font-family-sans-serif: "Raleway", sans-serif;
 $font-size-base: 0.9rem;
 $line-height-base: 1.6;
+$primary-font: "Press Start 2P", cursive;
+$secondary-font: 'Open Sans', sans-serif;
+
+// Colors
+$base-color: #31363F;
+//remove this line to revert to old color
+$base-color: #343338;
+
+$darker-thank-base-color: darken(#343338, 10%);
+
+$darkest: lighten( $base-color, 3%);
+$dark: lighten( $darkest, 5%);
+$middle: lighten( $dark, 5%);
+$lighter: lighten( $middle, 10% );
+$bright: lighten( $lighter, 10% );
+
+$shadow: darken($base-color, 3%);
+
+// Theme color
+$theme-color: #40fc3a;
+$theme-color2: lighten($theme-color, 27%);
 
 
 // Variables
@@ -22,4 +38,4 @@ $gray-800: #343a40 !default;
 $gray-900: #212529 !default;
 $black: #000 !default;
 
-$primary: #F05F40 !default;
+$primary: $theme-color !default;

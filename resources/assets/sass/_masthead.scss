@@ -3,7 +3,6 @@ header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
   background-image: url('~/img/header.jpg');
-  filter:hue-rotate(270deg);
   background-position: center center;
   @include background-cover;
   hr {
