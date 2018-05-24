@@ -10754,7 +10754,7 @@ h1,
   text-transform: uppercase !important;
   font-family: "Press Start 2P", cursive !important;
   text-shadow: -2px 2px #6d6b75 !important;
-  font-size: 17px;
+  font-size: 19px;
 }
 
 .headline {
@@ -10764,9 +10764,11 @@ h1,
 h1 {
   text-shadow: -7px 5px #6d6b75 !important;
   font-size: 70px !important;
+  letter-spacing: 4px !important;
 }
 
-#mainNav.navbar-shrink {
+#mainNav.navbar-shrink,
+#mainNav {
   background-color: #212529 !important;
 }
 
@@ -10829,7 +10831,7 @@ h1 {
 }
 
 .color2 {
-  color: #c4fec2 !important;
+  color: #c4fec2;
 }
 
 .color2-hover-color1 {
@@ -10852,6 +10854,17 @@ h1 {
 .padding-contacts {
   padding-top: 100px;
   padding-bottom: 100px;
+}
+
+#gateways .color1:hover,
+#gateways .color1:hover .color2 {
+  color: #0ad703 !important;
+  cursor: pointer;
+  text-decoration: none !important;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: #40fc3a !important;
 }
 
 .navbar-laravel {

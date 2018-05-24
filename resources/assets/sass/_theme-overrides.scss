@@ -7,7 +7,7 @@ body{
     text-transform: uppercase !important;
     font-family: $primary-font !important;
     text-shadow: -2px 2px $lighter !important;
-    font-size: 17px;
+    font-size: 19px;
 }
 
 .headline{
@@ -17,9 +17,10 @@ body{
 h1{
     text-shadow: -7px 5px $lighter !important;
     font-size: 70px !important;
+    letter-spacing: 4px !important;
 }
 
-#mainNav.navbar-shrink{
+#mainNav.navbar-shrink, #mainNav{
     background-color: $gray-900 !important;
 }
 
@@ -74,7 +75,7 @@ h1{
 }
 
 .color2{
-    color: $theme-color2 !important;
+    color: $theme-color2;
 }
 
 .color2-hover-color1{
@@ -97,4 +98,18 @@ h1{
 .padding-contacts{
     padding-top: 100px;
     padding-bottom: 100px;
+}
+
+#gateways{
+
+    .color1:hover, .color1:hover .color2{
+        color: darken($theme-color, 18%) !important;
+        cursor: pointer;
+        text-decoration: none !important;
+    }
+}
+
+// TOGGLE ICON ON SMALLER DEVICES
+.navbar-light .navbar-toggler{
+    border-color: $theme-color !important;
 }
