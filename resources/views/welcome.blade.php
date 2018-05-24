@@ -35,7 +35,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+              <a class="nav-link js-scroll-trigger" href="#what-is-this">What is this?</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#gateways">Gateways</a>
@@ -64,13 +64,13 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="mb-5 color2 secondary-font">Stimpack makes the road to set up a project way shorter and faster and easier than you have ever experienced before</p>
-            <a class="btn stim-button js-scroll-trigger" href="#about">Find Out More</a>
+            <a class="btn stim-button js-scroll-trigger font-600 secondary-font" href="#what-is-this">Find Out More</a>
           </div>
         </div>
       </div>
     </header>
 
-    <section class="bg-800 color1" id="about">
+    <section class="bg-800 color1" id="what-is-this">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 mx-auto text-center">
@@ -87,7 +87,7 @@
       <div class="container bg-700 color1">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="section-heading headline">At Your Service</h2>
+            <h2 class="section-heading headline">Gateways</h2>
             <hr class="my-4">
           </div>
         </div>
