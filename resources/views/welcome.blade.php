@@ -47,10 +47,10 @@
                 <a class="nav-link js-scroll-trigger" href="https://www.youtube.com/watch?time_continue=1&v=hY7m5jjJ9mM" target="_blank">|</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="data.stimpack.io/register">Sign up</a>
+                <a class="nav-link" href="https://data.stimpack.io/register">Sign up</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="data.stimpack.io/login">Login</a>
+                <a class="nav-link js-scroll-trigger" href="https://data.stimpack.io/login">Login</a>
             </li>
           </ul>
         </div>
@@ -99,7 +99,7 @@
       <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6 text-center">
-                <a href="data.stimpack.io" class="color1">
+                <a href="https://data.stimpack.io" class="color1">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fas fa-5x fa-cubes mb-3"></i>
                         <h3 class="mb-3 secondary-font font-600">Packs</h3>
@@ -126,7 +126,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
-                <a href="data.stimpack.io" class="color1">
+                <a href="https://data.stimpack.io/register" class="color1">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fas fa-5x fa-globe mb-3"></i>
                             <h3 class="mb-3 secondary-font font-600">Join!</h3>
