@@ -68,7 +68,7 @@
           </div>
           <div class="col-lg-8 mx-auto">
             <p class="mb-5 color2 secondary-font">Stimpack makes the road to set up a project way shorter and faster and easier than you have ever experienced before</p>
-            <a class="btn stim-button js-scroll-trigger font-600 secondary-font" href="#what-is-this">Find Out More</a>
+            <a class="btn stim-button js-scroll-trigger font-600 secondary-font" href="#what-is-this">What is this?</a>
           </div>
         </div>
       </div>
@@ -112,7 +112,7 @@
                     <div class="service-box mt-5 mx-auto">
                         <i class="fab fa-5x fa-kickstarter mb-3"></i>
                             <h3 class="mb-3 secondary-font font-600">Kickstarter</h3>
-                        <p class="mb-0 color2 secondary-font">Support our campaign at Kickstarter!</p>
+                        <p class="mb-0 color2 secondary-font">Do you have enough minerals? Support our campaign at Kickstarter!</p>
                     </div>
                 </a>
             </div>
