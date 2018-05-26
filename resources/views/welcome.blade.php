@@ -81,7 +81,9 @@
             <h2 class="section-heading headline mb-5">What is this?</h2>
           </div>
           <div class="col-lg-8 mx-auto text-center">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/hY7m5jjJ9mM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/hY7m5jjJ9mM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                </div>
           </div>
         </div>
       </div>
