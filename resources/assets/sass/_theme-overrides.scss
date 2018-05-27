@@ -24,6 +24,12 @@ h1{
     background-color: $gray-900 !important;
 }
 
+@media only screen and (max-width: 991px) {
+    #mainNav {
+        background-color: $gray-900 !important;
+    }
+}
+
 #mainNav .navbar-nav > li.nav-item > a.nav-link, #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link ,#mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus{
     color: $theme-color2;
 }
