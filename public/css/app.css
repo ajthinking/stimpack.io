@@ -10767,8 +10767,7 @@ h1 {
   letter-spacing: 4px !important;
 }
 
-#mainNav.navbar-shrink,
-#mainNav {
+#mainNav.navbar-shrink {
   background-color: #212529 !important;
 }
 
@@ -10816,6 +10815,10 @@ h1 {
   -webkit-box-shadow: 0px 0px #2d2c30;
           box-shadow: 0px 0px #2d2c30;
   outline: none;
+}
+
+.bg-900 {
+  background-color: #212529;
 }
 
 .bg-800 {
@@ -10883,6 +10886,16 @@ h1 {
   padding-top: 30px;
   height: 0;
   overflow: hidden;
+}
+
+#footer {
+  height: 58px;
+  padding: 0px;
+}
+
+#footer p {
+  margin-bottom: 0px;
+  margin-top: 17px;
 }
 
 .navbar-laravel {

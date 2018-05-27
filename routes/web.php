@@ -11,6 +11,10 @@
 |
 */
 
+Route::get('/privacy',  function () {
+    return view('gdpr-privacy-policy');
+});
+
 Route::get('/', function () {
     return view('welcome');
 });

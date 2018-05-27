@@ -20,7 +20,7 @@ h1{
     letter-spacing: 4px !important;
 }
 
-#mainNav.navbar-shrink, #mainNav{
+#mainNav.navbar-shrink{
     background-color: $gray-900 !important;
 }
 
@@ -60,6 +60,10 @@ h1{
     background-color: darken($theme-color, 12%);
     box-shadow: 0px 0px $shadow;
     outline: none;
+}
+
+.bg-900{
+    background-color: $gray-900;
 }
 
 .bg-800{
@@ -130,4 +134,13 @@ height: 100%;
     padding-top: 30px;
     height: 0;
     overflow: hidden;
+}
+
+#footer{
+    height: 58px;
+    padding: 0px;
+    p{
+        margin-bottom: 0px;
+        margin-top: 17px;
+    }
 }

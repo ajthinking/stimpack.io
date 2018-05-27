@@ -161,6 +161,18 @@
       </div>
   </section>
 
+  <section class="bg-900 less-padding" id="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 mr-auto text-center">
+          <p>
+            <a class="secondary-font color2-hover-color1" target="_blank" href="/privacy">Privacy Policy</a>
+          </p>
+        </div>
+      </div>
+    </div>
+</section>
+
     <!-- Bootstrap core JavaScript -->
     <script src="theme-vendor/jquery/jquery.min.js"></script>
     <script src="theme-vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
