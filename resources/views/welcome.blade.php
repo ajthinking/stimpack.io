@@ -68,7 +68,7 @@
             <hr>
           </div>
           <div class="col-lg-8 mx-auto">
-            <p class="mb-5 color2 secondary-font">Stimpack makes the road to set up a project way shorter and faster and easier than you have ever experienced before</p>
+            <p class="mb-5 color2 secondary-font">Make laravel web projects faster than a jacked-up super human!</p>
             <a class="btn stim-button js-scroll-trigger font-600 secondary-font" href="#what-is-this">What is this?</a>
           </div>
         </div>
@@ -184,6 +184,8 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
+
+    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b0d1da0fe9bff57"></script>
 
   </body>
 </html>
