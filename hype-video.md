@@ -1,3 +1,59 @@
+# NEW MANUS
+
+MANUS:
+
+    PROBLEM:
+    1. VALET SNIP
+    (FILM FRÅN VALET VIDEON)
+    
+    2. BOOM - NOW YOU CAN WITH STIMPACK
+    (STIMPACK LOGO)
+    
+    3. Do you also hate the monotonous initial face of wipping up a project? 
+    (COMAND LINE: LARAVEL NEW APP)
+        - You have to manually crate the database
+        (COMANDLINE: CREATE THE DB)
+        - set the env 
+        (IN EDITOR CHANGING A THE PARAMETERS IN ENV)
+        - write a lot of cli-commands with flags that are easily forgotten yada yada yada
+        (COMANDLINE: WRITE A LOT OF DIFFERENT MAKE CONTROLLERS OCH SÅNNT MED OLIKA FLAGGOR SOM BLIR FEL)
+        - then when you are finaLly done you realize you need to change something and a small change leads to a lot of tedious work.
+        (EDITOR VISA HUR DU DELETAR MASSA FILER)
+        
+    4. At this point you might get tempted to create your own boilerplates only to find them outdated faster than you have been able to make them worth to make from the beginning.
+        (VISA HUR DU SAVEAR BOILER PLATE - SEN VISA HUR DU INSTALLERAR NÅGOT SOM SAKNAR DEPENDENCIES)
+        
+    5. Now you get tempted to install generators that end up clutter your project by beeing both to complex and to specific to be at some real help.
+        (VISA README PÅ NÅGON GENERATOR OCH KANSKE INSTALLERA NÅGON OCH VISA ALLA FILER DEN GENERERAR)
+        
+    6. At this point your initial creative enthusiasm are long gone and you find yourselfe in the feotal position crying in the corner.
+        (BILD PÅ NÅGON I FOSTERSTÄLLNING)
+        
+    
+    7. WHAT. A. MESS.
+    (ANGRY TYPING)
+
+    8. WHAT IF THINGS WEREN'T SUCH A PAIN IN THE ASS. WHAT IF THINGS JUST WORKED. CAN YOU IMAGINE?
+    (BILD PÅ APAN.)
+
+    9. INTRODUCING STIMPACK - THE LARAVEL DEVELOPMENT ACCELERATOR THAT MAKES U REALIZE HOW MUCH OF A FUCKING DUMMY YOU ARE FOR EVER TOLERATING ANYTHING ELSE. WHATCH THIS.
+    (MODDAD BILD PÅ TOMAT SOM FÅR INJECTION)
+
+    10. ALL I NEED TO DO IS TO RUN THESE COMMANDS TO AVOID CONFLICT WITH VALET. BECAUSE OF CORSE I AM USING VALET AS IT IS AWESOME AND THEIR PROMO VIDEO ROCKS! {KANSKE SKA KOMMANDONA SÄGAS VERBALT}
+        - composer global require consolidation/cgr
+        - cgr stimpack-io/stimpack
+        (COMMANDLINE: SHOWING THIS COMMANDS BEEING WRITTEN)
+
+    11. THEN RUN STIMPACK PARK FROM THE DIRECTORY FROM WHERE I KEEP MY PROJECTS
+    (SAMMA FILM SOM OVAN FORTSÄTTER)
+
+    12. NOW WHEN I OPEN MY BROWSER STIMPACK IS AVAILABLE ON STIMPACK.TEST. FUCKING MAGIC
+    (VISA HUR MAN SKRIVER IN STIMPACK I BROWSERN OCH KOMMER TILL SIDAN)
+
+
+
+
+
 # Video manus
 * ---PROBLEM DEFINITION---
 * ---SHORT DESCRIPTION---
