@@ -156,6 +156,11 @@
             <p>
               <a class="secondary-font color2-hover-color1" href="mailto:hello@stimpack.io">hello@stimpack.io</a>
             </p>
+            <p class="color2 secondary-font">
+                The people behind:<br> <a class="color2-hover-color1" href="https://www.linkedin.com/in/anders-j%C3%BCrisoo-182b7819/">Anders Jürisoo</a> - Founder and Creator
+                <br>
+                <a class="color2-hover-color1" href="https://se.linkedin.com/in/olof-jondelius-84612260">Olof Jondelius</a> - Co-Founder
+            </p>
           </div>
         </div>
       </div>
