@@ -111,7 +111,7 @@
                 </a>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
-                <a href="kickstarter.com" class="color1" target="_blank">
+                <a href="https://www.kickstarter.com/projects/546253383/stimpack-a-laravel-web-development-accelerator?ref=email" class="color1" target="_blank">
                     <div class="service-box mt-5 mx-auto">
                         <i class="fab fa-5x fa-kickstarter mb-3"></i>
                             <h3 class="mb-3 secondary-font font-600">Kickstarter</h3>
